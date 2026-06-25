@@ -4,9 +4,6 @@
 
 # 👋 Shubham Vishwakarma
 
-
-# 👋 Shubham Vishwakarma
-
 ### Data Analyst | SQL | Python | Power BI | Excel | Statistics | Machine Learning | IBM Certified
 
 📍 India
