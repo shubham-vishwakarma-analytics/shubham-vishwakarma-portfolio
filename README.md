@@ -109,88 +109,107 @@ I am passionate about solving business problems using data and continuously impr
 
 ## 🔹 SQL Projects
 
-* 📈 **Superstore Sales Analysis (SQL)**
+* Superstore Sales Analysis (SQL)
   https://github.com/shubham-vishwakarma-analytics/Superstore-Sales-Analysis---SQL
 
-* 📊 **MovieLens SQL Case Study**
+* MovieLens SQL Case Study
   https://github.com/shubham-vishwakarma-analytics/MovieLens-SQL-CaseStudy
 
-* 📉 **Customer Orders Analysis (SQL)**
+* Customer Orders Analysis (SQL)
   https://github.com/shubham-vishwakarma-analytics/Customer-Orders-Analysis---SQL
 
 ---
 
 ## 🔹 Power BI Projects
 
-* 📊 **Superstore Sales Analysis Dashboard**
+* Superstore Sales Analysis Dashboard
   https://github.com/shubham-vishwakarma-analytics/Superstore-Sales-Analysis-Dashboard---PowerBI
 
-* 📈 **Adventure Works Sales Analysis Dashboard**
+* Adventure Works Sales Analysis Dashboard
   https://github.com/shubham-vishwakarma-analytics/Adventure-Works-Sales-Analysis-Dashboards---PowerBI
 
-* 📉 **Amazon Global Superstore Sales Dashboard**
+* Amazon Global Superstore Sales Dashboard
   https://github.com/shubham-vishwakarma-analytics/Amazon-Global-Superstore-Sales-Dashboard---PowerBI
 
 ---
 
 ## 🔹 Excel Projects
 
-* ☕ **Coffee Shop Sales Analysis Dashboard**
+* Coffee Shop Sales Analysis Dashboard
   https://github.com/shubham-vishwakarma-analytics/Coffee-Shop-Sales--Excel
 
-* 📊 **Superstore Sales Analysis Dashboard (Excel)**
+* Superstore Sales Analysis Dashboard (Excel)
   https://github.com/shubham-vishwakarma-analytics/Superstore-Sales-Analysis-Dashboard---Excel
 
-* 📦 **Purchase & Shipping Products Analysis Dashboard**
+* Purchase & Shipping Products Analysis Dashboard
   https://github.com/shubham-vishwakarma-analytics/Purchase-Shipping-Products-Analysis-Dashboard---Excel
 
 ---
 
 ## 🔹 Python Projects
 
-* 📈 **Retail Customer Analysis Case Study**
+* Retail Customer Analysis Case Study
   https://github.com/shubham-vishwakarma-analytics/Retail-Customer-Analysis-Python-Case-Study-----Python
 
-* 💳 **Credit Card Data Analysis Case Study**
+* Credit Card Data Analysis Case Study
   https://github.com/shubham-vishwakarma-analytics/Credit-Card-Data-Analysis-Python-Case-Study-----Python
 
 ---
 
 ## 🔹 Machine Learning Projects
 
-* 🤖 **Credit Card Consumption Prediction**
+* Credit Card Consumption Prediction
   https://github.com/shubham-vishwakarma-analytics/Credit-Card-Consumption-Prediction
+
+---
+
+# 🚀 Learning & Challenge Repositories
+
+## SQL Practice Journey
+
+* Daily SQL Challenges
+  https://github.com/shubham-vishwakarma-analytics/Daily-SQL-Challenges
+
+## Machine Learning Journey
+
+* ML 100 Days Challenge
+  https://github.com/shubham-vishwakarma-analytics/ML-100-Days-Challenge
+
+## Excel Practice Journey
+
+* Microsoft Excel 100 Days Challenge
+  https://github.com/shubham-vishwakarma-analytics/Microsoft-Excel-100-Days-Challenge
 
 ---
 
 # 🏅 Certifications
 
-* 🏆 **IBM Data Science Professional Certificate**
+* IBM Data Science Professional Certificate
   https://www.coursera.org/account/accomplishments/professional-cert/J8BXGA7T30DQ
 
-* 🏆 **IBM Data Analyst Professional Certificate**
+* IBM Data Analyst Professional Certificate
   https://www.coursera.org/account/accomplishments/professional-cert/OBFJD9DQLZRF
 
-* 🏆 **Microsoft SQL Server Professional Certificate**
+* Microsoft SQL Server Professional Certificate
   https://www.coursera.org/account/accomplishments/professional-cert/EQRT2MQFORL1
 
-* 📜 **NASSCOM Data Visualization & Analytics**
+* NASSCOM Data Visualization & Analytics
   https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Shubham%2BVishwakarma_153347609.pdf.pdf
 
 ---
 
 # 💻 Coding Profiles
 
-* 🟨 **LeetCode**
+* LeetCode
   https://leetcode.com/u/shubham-vishwakarma-analytics
 
-* ⭐ **HackerRank**
+* HackerRank
   https://www.hackerrank.com/profile/shubhamdata
 
-* 📊 **StrataScratch**
+* StrataScratch
   https://platform.stratascratch.com/user/shubhamvishwakarmaanalytics
 
-* 🏆 **Kaggle**
+* Kaggle
   https://www.kaggle.com/datadrivenshubham
 
 ---
@@ -202,8 +221,8 @@ I am passionate about solving business problems using data and continuously impr
 **July 2025 – Present**
 
 * Completed 12+ Analytics and Machine Learning Projects
-* Built interactive Power BI and Excel Dashboards
-* Performed SQL and Python-based Data Analysis
+* Built Interactive Power BI and Excel Dashboards
+* Performed SQL and Python-Based Data Analysis
 * Applied Machine Learning Techniques on Real-World Business Problems
 * Delivered Data-Driven Insights and Reports
 
@@ -221,7 +240,7 @@ https://github.com/shubham-vishwakarma-analytics
 
 ---
 
-### Open To Opportunities
+## Open To Opportunities
 
 * Data Analyst
 * Junior Data Analyst
