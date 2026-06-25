@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="Portfolio_Shubham_Vishawakarma.png" alt="Shubham Vishwakarma Portfolio Banner" width="100%">
+</p>
+
+# 👋 Shubham Vishwakarma
+
+
 # 👋 Shubham Vishwakarma
 
 ### Data Analyst | SQL | Python | Power BI | Excel | Statistics | Machine Learning | IBM Certified
