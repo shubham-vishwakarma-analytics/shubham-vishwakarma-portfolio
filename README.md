@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-vishwakarma-analytics">LinkedIn</a> ·
   <a href="https://github.com/shubham-vishwakarma-analytics">GitHub</a> ·
-  <a href="mailto:shubhamvishwakarma.developer@gmail.com">Email</a> ·
   📍 India
 </p>
 
@@ -204,6 +203,5 @@ I'm actively looking for opportunities as a **Data Analyst, Junior Data Analyst,
 
 - 💼 LinkedIn: [linkedin.com/in/shubham-vishwakarma-analytics](https://www.linkedin.com/in/shubham-vishwakarma-analytics)
 - 💻 GitHub: [github.com/shubham-vishwakarma-analytics](https://github.com/shubham-vishwakarma-analytics)
-- 📧 Email: shubhamvishwakarma.developer@gmail.com
 
 > *"I believe data has the power to solve problems and create a meaningful impact."*
