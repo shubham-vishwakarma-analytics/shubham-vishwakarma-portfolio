@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Shubham Vishwakarma — Data Analyst Portfolio Banner" width="100%">
+  <img src="banner.png" alt="Shubham Vishwakarma — Data Analyst Portfolio Banner" width="100%">
 </p>
 
 <h1 align="center">Shubham Vishwakarma</h1>
@@ -22,9 +22,9 @@
 
 ## About Me
 
-I'm a final-year B.Tech (Information Technology, 2026) graduate and an **IBM Certified Data Analyst** with hands-on experience across data analytics, business intelligence, data visualization, statistics, and machine learning.
+I am a B.Tech Graduate in Information Technology (2026) and an IBM Certified Data Analyst with hands-on experience in Data Analytics, Business Intelligence, Data Visualization, Statistics, and Machine Learning.
 
-I turn raw data into decisions — cleaning messy datasets, writing optimized SQL, building Power BI / Excel dashboards, and training predictive models that answer real business questions. Everything in this portfolio is built on real, end-to-end projects rather than tutorials alone.
+I specialize in transforming raw data into actionable business insights through data analysis, dashboard development, statistical modeling, and predictive analytics.
 
 **What I work on day to day:**
 - Data cleaning & preparation
